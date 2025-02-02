@@ -62,8 +62,8 @@ Everything else though, we can do pretty much the same things as with a normal J
 
 const yousef: User = { id: 4, name: "Yousef", age: 30 }
 
-Users.add(yousef)
-Users.print()
+Users.add(yousef) // Adds an object to the map
+Users.print() // Prints the map
 // SelfMap(3) {
 //   1 => { id: 1, name: 'Ahmed', age: 18 }
 //   4 => { id: 4, name: 'Yousef', age: 30 }
@@ -98,4 +98,5 @@ Users.values() // Gets all values of the map
 Users.keys() // Gets all keys of the map
 Users.forEach(ele => console.log(ele)) // Loop over all values in the map
 Users.toString() // Converts the map to string
+Users.log() // Alias to print method
 ```
