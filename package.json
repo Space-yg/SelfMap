@@ -18,6 +18,14 @@
   ],
   "author": "Space.yg",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Space-yg/SelfMap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Space-yg/SelfMap/issues"
+  },
+  "homepage": "https://github.com/Space-yg/SelfMap#readme",
   "devDependencies": {
     "tsup": "^8.3.6",
     "typescript": "^5.7.3"
