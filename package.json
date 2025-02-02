@@ -1,6 +1,6 @@
 {
   "name": "selfmap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A map that maps a unique property in objects to the objects themselves.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
